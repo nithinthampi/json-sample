@@ -59808,3 +59808,6 @@ const storeServices = [
     ]
   }
 ];
+
+
+module.exports = storeServices;
